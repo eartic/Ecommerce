@@ -1,0 +1,5 @@
+{"ponuda":{"id":81,"name":"objekt","short_name":"p",
+"special_instructions":"ovo je prvi izvorni objekt."
+},"menu_items":
+[{"description":"tu se nalaze itemi prvog korjena",
+"name":"item1","price":"10","short_name":"p1"}]}
